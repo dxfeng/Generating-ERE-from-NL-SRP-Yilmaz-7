@@ -1,4 +1,4 @@
-##Generating ERE from NL for Runtime-Verification
+<h1>Generating ERE from NL for Runtime-Verification</h1>
 
 The major products of this research is:
 1. A Python-based GUI built with tkinter that serves as the translation tool
