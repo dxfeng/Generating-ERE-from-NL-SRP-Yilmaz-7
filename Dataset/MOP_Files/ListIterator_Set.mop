@@ -1,3 +1,8 @@
+/**
+ * Example of a file. Full dataset can be found at:
+ * https://github.com/runtimeverification/property-db/tree/master
+ */
+
 package mop;
 
 import java.util.*;
