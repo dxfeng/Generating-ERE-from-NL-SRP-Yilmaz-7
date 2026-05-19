@@ -1,0 +1,3 @@
+mark (mark | read1 | readn | goodreset)* badreset+
+(mark | read1 | readn | goodreset)+ badreset+
+mark (mark | read1 | readn | goodreset)* badreset+

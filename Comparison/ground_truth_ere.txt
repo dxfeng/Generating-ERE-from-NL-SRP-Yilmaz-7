@@ -1,0 +1,3 @@
+(mark | read1 | readn | goodreset)* badreset+;match;mark
+(mark | read1 | readn | goodreset)* badreset+;match;mark
+read1 (mark | read1 | readn | goodreset)* badreset+;match;mark
