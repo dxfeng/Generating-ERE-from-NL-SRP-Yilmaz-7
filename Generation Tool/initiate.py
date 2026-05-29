@@ -118,7 +118,7 @@ if __name__ == "__main__":
     )
     OUTPUT = response.choices[0].message.content
 
-    with open("translation.txt", "w", encoding='utf-8') as file:
+    with open("../translation.txt", "w", encoding='utf-8') as file:
         file.write("@$#%\n")
         file.write(f"{NL_COMMENT}\n")
         file.write("@$#%\n")
